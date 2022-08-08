@@ -1,7 +1,7 @@
 {
-  "name": "Kelime Evreni",
+  "name": "Söz oyunu",
   "logo": "https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
-  "description": "Telegram kelime bilgi oyun",
+  "description": "Telegram sözü tap oyun",
   "env": {
     "API_ID": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
